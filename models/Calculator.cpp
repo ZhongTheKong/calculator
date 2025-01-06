@@ -1,5 +1,7 @@
 #include "Calculator.h"
 
+Calculator::Calculator() {}
+
 double Calculator::add(double num1, double num2) {
     return num1 + num2;
 }
